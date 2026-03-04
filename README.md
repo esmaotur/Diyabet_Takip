@@ -1,50 +1,76 @@
-# Welcome to your Expo app 👋
+# Diyabet Takip Uygulaması
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 🔗 Bağlantılar
 
-## Get started
+* **YouTube Demo: https://youtube.com/shorts/Hq6-GoboQXo?feature=share
+* **APK İndirme: 
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+* **Proje Numarası:** 910041
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 📱 Proje Açıklaması
 
-In the output, you'll find options to open the app in a
+Bu proje, React Native kullanılarak geliştirilmiş basit bir **Diyabet Takip Uygulamasıdır**.
+Uygulama, kullanıcıların sağlık verilerini daha kolay takip edebilmesi için tasarlanmıştır.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Uygulama içerisinde kullanıcılar:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+* Vücut kitle indeksini (BMI) hesaplayabilir
+* Sağlık verilerini görüntüleyebilir
+* Basit bir mobil arayüz üzerinden verilerini kontrol edebilir
 
-## Get a fresh project
+Proje **React Native ve Expo** kullanılarak geliştirilmiştir ve Android platformunda çalışmaktadır.
 
-When you're ready, run:
+Amaç, mobil uygulama geliştirme sürecini öğrenmek ve React Native ile temel sağlık takibi özelliklerini içeren bir uygulama oluşturmaktır.
+
+---
+
+## ⚙️ Kullanılan Teknolojiler
+
+* React Native
+* Expo
+* JavaScript
+*  Android Studio
+
+---
+
+## 💻 Projeyi Yerelde Çalıştırma
+
+Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
+
+### 1️⃣ Repoyu Klonlayın
 
 ```bash
-npm run reset-project
+git clone REPO_LINKI
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2️⃣ Proje Klasörüne Girin
 
-## Learn more
+```bash
+cd diyabet_takip
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### 3️⃣ Gerekli Paketleri Kurun
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npm install
+```
 
-## Join the community
+### 4️⃣ Expo ile Başlatın
 
-Join our community of developers creating universal apps.
+```bash
+npx expo start
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### 5️⃣ Android Cihaz veya Emulator ile Çalıştırma
+
+Android Studio emulator veya bağlı Android cihaz ile çalıştırmak için:
+
+```bash
+npx expo run:android
+```
+
+
