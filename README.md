@@ -3,7 +3,7 @@
 ## 🔗 Bağlantılar
 
 * **YouTube Demo: https://youtube.com/shorts/Hq6-GoboQXo?feature=share
-* **APK İndirme: 
+* **APK İndirme: https://expo.dev/accounts/esmaes/projects/diyabet_takip/builds/650a3ea3-1831-49d6-aa31-37ac8e42de83
 
 ---
 
